@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: ef39961c1e90bce4092a098edc431d71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8693561259354481989
+    second: Char_Boss_FX_Attack_07_0
+  - first:
+      213: 4146060969925457812
+    second: Char_Boss_FX_Attack_07_1
+  - first:
+      213: 7779982189117409403
+    second: Char_Boss_FX_Attack_07_2
+  - first:
+      213: 8630864070041481994
+    second: Char_Boss_FX_Attack_07_3
+  - first:
+      213: -6822940256497830700
+    second: Char_Boss_FX_Attack_07_4
+  - first:
+      213: 7015761833770370253
+    second: Char_Boss_FX_Attack_07_5
+  - first:
+      213: 4365363088899988210
+    second: Char_Boss_FX_Attack_07_6
+  - first:
+      213: 6345661967294650653
+    second: Char_Boss_FX_Attack_07_7
+  - first:
+      213: -4969685988684447527
+    second: Char_Boss_FX_Attack_07_8
+  - first:
+      213: -4256778036525803310
+    second: Char_Boss_FX_Attack_07_9
+  - first:
+      213: 8534203797765506349
+    second: Char_Boss_FX_Attack_07_10
+  - first:
+      213: -8904018547084420654
+    second: Char_Boss_FX_Attack_07_11
+  - first:
+      213: 2167360723360637218
+    second: Char_Boss_FX_Attack_07_12
+  - first:
+      213: 8129761578320451732
+    second: Char_Boss_FX_Attack_07_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_0
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1559
+        width: 240
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545ebe8a7ebb5a870800000000000000
+      internalID: 8693561259354481989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_1
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1538
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497b4814c74c98930800000000000000
+      internalID: 4146060969925457812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 397
+        width: 1246
+        height: 1155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b788535b49c08fb60800000000000000
+      internalID: 7779982189117409403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_3
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1480
+        width: 443
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a033187b42df6c770800000000000000
+      internalID: 8630864070041481994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_4
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1465
+        width: 108
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4fbb77cfb0051a0800000000000000
+      internalID: -6822940256497830700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_5
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1298
+        width: 93
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc440aa773efc5160800000000000000
+      internalID: 7015761833770370253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_6
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1115
+        width: 253
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa5c75c992e49c30800000000000000
+      internalID: 4365363088899988210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_7
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 935
+        width: 208
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19dd4140f1501850800000000000000
+      internalID: 6345661967294650653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_8
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 877
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d04a3f7ce0280bb0800000000000000
+      internalID: -4969685988684447527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_9
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 836
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8d13ddde2ece4c0800000000000000
+      internalID: -4256778036525803310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_10
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 574
+        width: 264
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d254a9e43259f6670800000000000000
+      internalID: 8534203797765506349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_11
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 501
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d91b839e429e6480800000000000000
+      internalID: -8904018547084420654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_12
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 301
+        width: 328
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2216b004813041e10800000000000000
+      internalID: 2167360723360637218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Char_Boss_FX_Attack_07_13
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 308
+        width: 19
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d8680517b2d070800000000000000
+      internalID: 8129761578320451732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Char_Boss_FX_Attack_07_0: 8693561259354481989
+      Char_Boss_FX_Attack_07_1: 4146060969925457812
+      Char_Boss_FX_Attack_07_10: 8534203797765506349
+      Char_Boss_FX_Attack_07_11: -8904018547084420654
+      Char_Boss_FX_Attack_07_12: 2167360723360637218
+      Char_Boss_FX_Attack_07_13: 8129761578320451732
+      Char_Boss_FX_Attack_07_2: 7779982189117409403
+      Char_Boss_FX_Attack_07_3: 8630864070041481994
+      Char_Boss_FX_Attack_07_4: -6822940256497830700
+      Char_Boss_FX_Attack_07_5: 7015761833770370253
+      Char_Boss_FX_Attack_07_6: 4365363088899988210
+      Char_Boss_FX_Attack_07_7: 6345661967294650653
+      Char_Boss_FX_Attack_07_8: -4969685988684447527
+      Char_Boss_FX_Attack_07_9: -4256778036525803310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
